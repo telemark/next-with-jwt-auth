@@ -28,7 +28,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.17.0",
     "jsonwebtoken": "^8.0.1",
     "next": "^4.0.1",
     "react": "^16.0.0",
