@@ -34,7 +34,7 @@
     "next": "7.0.0",
     "react": "16.5.2",
     "react-dom": "16.5.2",
-    "semantic-ui-react": "0.82.5"
+    "semantic-ui-react": "0.84.0"
   },
   "now": {
     "alias": "tfk-auth-next.now.sh"
