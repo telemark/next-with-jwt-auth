@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "0.18.0",
-    "jsonwebtoken": "8.5.0",
+    "jsonwebtoken": "8.5.1",
     "next": "8.0.3",
     "react": "16.8.4",
     "react-dom": "16.8.4",
